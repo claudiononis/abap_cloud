@@ -16,6 +16,6 @@ CLASS zmiclase_cn IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-  out->write( 'hola   mundo')      .
+  out->write( 'hola   mundoooo')      .
   ENDMETHOD.
 ENDCLASS.
